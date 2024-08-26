@@ -1,16 +1,10 @@
-# hygwellapp
+# React+Flutter APP
 
-A new Flutter project.
+Welcome to React+Flutter APP, a project designed to bring seamless and engaging experiences to users.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Download the App
 
-A few resources to get you started if this is your first Flutter project:
+You can download and install the latest version of the HygwellApp APK from the following link:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Download HygwellApp APK](https://drive.google.com/file/d/16_5ymB60Z9WMGSoOpNQUiFbxn2Rwlq3m/view?usp=sharing)
